@@ -1,0 +1,32 @@
+body{
+  background: #866e69;
+}
+.main{
+  background-color: #66da62;
+  display: flex;
+  justify-content:space-around;
+}
+.left{
+  width:30%;
+  margin:2%;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 30px;
+}
+.right{
+  width:65%;
+  margin: 2%;
+  padding-left: 1%;
+  text-align: left;
+  margin-left: 1%;
+  background-color: #fff;
+  border-radius: 30px;
+}
+table{
+  border: 2px solid red;
+  border-collapse:inherit;
+  width: 100%;
+}
+h3{
+  color: #0d3be7;
+}
